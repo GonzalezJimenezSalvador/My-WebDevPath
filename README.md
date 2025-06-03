@@ -1,2 +1,3 @@
-# 🚀 Journey to Becoming a Web Developer
-Hello! I have set myself the goal of becoming a web developer. In this repository, I will document my progress until I develop my own website using React.
+# 🚀 Mi Camino para Convertirme en Desarrollador Web
+
+¡Hola! Me he propuesto la meta de convertirme en desarrollador web. En este repositorio, documentaré mi progreso hasta desarrollar mi propio sitio web usando React.
